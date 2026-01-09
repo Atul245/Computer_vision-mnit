@@ -32,7 +32,5 @@ This repository will include (but is not limited to):
 - Matplotlib  
 - Jupyter Notebook / Python scripts  
 
----
 
-## 📂 Repository Structure
 
